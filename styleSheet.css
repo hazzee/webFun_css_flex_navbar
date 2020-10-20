@@ -1,0 +1,39 @@
+.center-box{ 
+    display: flex;
+    align-content: center;
+    background-color: rgb(102, 148, 238);
+    height: 70px;
+    width: 1200px;
+    padding-bottom: 15px; 
+    font-family: serif;
+    }
+.icon{
+    height: 50px; 
+    display: inline; 
+    justify-content: center; 
+    margin-top: 15px;
+    margin-bottom: 15px;   
+    margin-left: 15px;   
+    }
+h1{
+    padding-top: 10px;
+    display: inline-flex;
+    color: white;
+    }
+ul{
+    display: inline;
+    justify-content: space-between;
+    list-style-type: none;
+    padding-top: 20px;
+    }
+a{
+    text-align: center;
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+    margin: 60px;
+}
+a.link{
+    color:white;
+}
+
